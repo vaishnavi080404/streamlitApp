@@ -2,5 +2,5 @@ numpy
 pandas
 seaborn
 matplotlib
-streamlit
+
 tensorflow
